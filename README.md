@@ -2,8 +2,8 @@
 
 **Setting up:**
 
-- **npm init**
-- **node .**
+1 **npm install**
+2 **node .**
 
 **Images:**
 
