@@ -1,10 +1,10 @@
 # filelist discord bot
 
-search:
-<img src="https://i.imgur.com/8TNuCvw.png">
+search:<br>
+<img src="https://i.imgur.com/8TNuCvw.png"><br>
 
-after item select:
-<img src="https://i.imgur.com/tg4UWGG.png">
+after item select:<br>
+<img src="https://i.imgur.com/tg4UWGG.png"><br>
 
-when the bot DM you:
-<img src="https://i.imgur.com/OwnzifB.png">
+when the bot DM you:<br>
+<img src="https://i.imgur.com/OwnzifB.png"><br>
