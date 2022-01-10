@@ -1,4 +1,11 @@
-# filelist discord bot
+# FileList Discord BOT
+
+**Setting up:**
+
+- **npm init**
+- **node .**
+
+**Images:**
 
 search:<br>
 <img src="https://i.imgur.com/8TNuCvw.png"><br>
